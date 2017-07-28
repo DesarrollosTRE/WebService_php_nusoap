@@ -1,5 +1,5 @@
 # WebService_php_nusoap
-Pequeño web Service para mostrar su funcionalidd y forma de usar, creando el Servicio y el cliente con NUSOAP de PHP, 
+Pequeño web Service para mostrar su funcionalidad y forma de usar, creando el Servicio y el cliente con NUSOAP de PHP, 
 Para descargar NUSOAP desde el siguiente link: https://sourceforge.net/projects/nusoap/
 
 # Codigo de Servicio
